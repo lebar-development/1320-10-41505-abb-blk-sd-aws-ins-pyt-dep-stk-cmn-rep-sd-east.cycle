@@ -1,0 +1,8 @@
+{
+  "resourceMetadataKEY": "yes",
+  "operatingSystemNameKEY": "galactic",
+  "operatingSystemVersionNumberKEY": "20.04",
+  "botNameKEY": "botname",
+  "botVersionNumberKEY": "v0-0-04",
+  "baseImageIDKEY": "image-id"
+}
