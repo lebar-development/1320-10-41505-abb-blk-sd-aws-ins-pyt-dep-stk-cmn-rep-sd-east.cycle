@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "name",
+  "resourceNameKEY": "sambar-1320-10-acl-sd",
+  "cfqridKEY": "1320-10-11845-scr-acl-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-11845-scr-acl-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11845",
+  "deletionProtectionFlag11800KEY": "none"
+}
