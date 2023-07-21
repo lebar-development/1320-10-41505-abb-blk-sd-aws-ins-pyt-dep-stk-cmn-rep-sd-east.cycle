@@ -1,0 +1,15 @@
+{
+  "resourceMetadataKEY": "yes",
+  "ipv4CIDRIDKEY": "10.10.168.0/21",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "botname",
+    "cfqridKEY": "1320-10-11845-scr-acl-sd-aws",
+    "resourceTypeKEY": "acl",
+    "blockNumberKEY": "1320-10",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}
