@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "name",
+  "resourceNameKEY": "sambar-control-plane-1320-10-seg-sd",
+  "cfqridKEY": "1320-10-11850-vcr-seg-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-11850-vcr-seg-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11850",
+  "deletionProtectionFlag11800KEY": "none"
+}
