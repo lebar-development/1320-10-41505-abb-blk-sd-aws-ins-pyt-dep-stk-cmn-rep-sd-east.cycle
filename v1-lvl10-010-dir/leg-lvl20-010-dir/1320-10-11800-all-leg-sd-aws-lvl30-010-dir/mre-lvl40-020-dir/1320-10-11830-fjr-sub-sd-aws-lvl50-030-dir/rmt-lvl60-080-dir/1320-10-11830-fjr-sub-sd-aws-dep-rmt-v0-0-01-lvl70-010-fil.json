@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "name",
+  "resourceNameKEY": "eks-sambar-2b-1320-10-sub-sd",
+  "cfqridKEY": "1320-10-11830-fjr-sub-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "1320-10-11830-fjr-sub-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber11800KEY": "11830",
+  "deletionProtectionFlag11800KEY": "none"
+}
