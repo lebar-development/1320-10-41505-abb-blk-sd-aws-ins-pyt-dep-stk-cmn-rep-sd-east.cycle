@@ -1,0 +1,22 @@
+{
+  "resourceMetadataKEY": "yes",
+  "resourceDescriptionKEY": "Security Group for EKS cluster in the sambar-dev environment.",
+  "outboundRuleKEY": {
+    "trafficTypeKEY": "All trafic",
+    "protocolTypeKEY": "All",
+    "portRangeKEY": "All",
+    "sourceIPKEY": "0.0.0.0/0",
+    "ruleDescriptionKEY": "XXXX"
+  },
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "botname",
+    "cfqridKEY": "1320-10-11850-vcr-seg-sd-aws",
+    "resourceTypeKEY": "seg",
+    "blockNumberKEY": "1320-10",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+}
